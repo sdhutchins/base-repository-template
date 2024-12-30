@@ -1,18 +1,17 @@
-# base-repository-template
+# Base Repository Template
 
-This repository is a template for creating new repositories. It contains a basic structure and files to help you get started.
+This repository serves as a template for creating new repositories. It provides a basic structure and essential files to help you get started efficiently.
 
 ## Directory Structure
 
-```console
+```plaintext
 .
-├── .github - Hidden folder containing issue and pull request templates.
-├── .gitignore - File that tells Git which files to ignore.
-├── .markdownlint.json - Configuration file for markdownlint.
-├── CONTRIBUTING.md - File that explains how to contribute to the project.
-├── LICENSE - File that contains the license for the project.
-├── README.md - File that contains information about the project.
-├── data - Folder that contains datasets used in the project.
-├── docs - Folder that contains documentation for the project.
-└── tests - Folder that contains tests for the project.
-```
+├── .github/                 # Hidden folder containing issue and pull request templates
+├── .gitignore               # Specifies files and folders for Git to ignore
+├── .markdownlint.json       # Configuration file for markdownlint
+├── CONTRIBUTING.md          # Guidelines for contributing to the project
+├── LICENSE                  # Project license information
+├── README.md                # Project overview and essential details
+├── data/                    # Directory for datasets used in the project
+├── docs/                    # Directory for project documentation
+└── tests/                   # Directory containing tests for the project
