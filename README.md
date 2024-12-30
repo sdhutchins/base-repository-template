@@ -1,6 +1,7 @@
 # Base Repository Template
 
-This repository serves as a template for creating new repositories. It provides a basic structure and essential files to help you get started efficiently.
+This repository serves as a template for creating new repositories. It provides a basic structure and essential
+files to help you get started efficiently.
 
 ## Directory Structure
 
@@ -15,3 +16,4 @@ This repository serves as a template for creating new repositories. It provides 
 ├── data/                    # Directory for datasets used in the project
 ├── docs/                    # Directory for project documentation
 └── tests/                   # Directory containing tests for the project
+```
